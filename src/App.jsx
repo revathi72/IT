@@ -26,7 +26,7 @@ function LoadingSpinner() {
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/IT">
       <Suspense fallback={<LoadingSpinner />}>
         <Routes>
           <Route path="/" element={<Layout />}>
