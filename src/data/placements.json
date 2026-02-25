@@ -1,0 +1,23 @@
+{
+  "yearWiseData": [
+    { "year": "2024-2025", "totalStudents": 118, "placed": 108, "higherStudies": 6, "entrepreneur": 4, "highestPackage": "27 LPA", "averagePackage": "4.8 LPA", "medianPackage": "3.36 LPA" },
+    { "year": "2023-2024", "totalStudents": 115, "placed": 104, "higherStudies": 7, "entrepreneur": 4, "highestPackage": "22 LPA", "averagePackage": "4.5 LPA", "medianPackage": "3.2 LPA" },
+    { "year": "2022-2023", "totalStudents": 112, "placed": 100, "higherStudies": 8, "entrepreneur": 4, "highestPackage": "18 LPA", "averagePackage": "4.2 LPA", "medianPackage": "3.1 LPA" },
+    { "year": "2021-2022", "totalStudents": 110, "placed": 95, "higherStudies": 8, "entrepreneur": 7, "highestPackage": "15 LPA", "averagePackage": "3.8 LPA", "medianPackage": "3.0 LPA" },
+    { "year": "2020-2021", "totalStudents": 108, "placed": 90, "higherStudies": 12, "entrepreneur": 6, "highestPackage": "12 LPA", "averagePackage": "3.5 LPA", "medianPackage": "2.8 LPA" }
+  ],
+  "topRecruiters": [
+    { "name": "TCS", "logo": "/images/recruiters/tcs.png" },
+    { "name": "Infosys", "logo": "/images/recruiters/infosys.png" },
+    { "name": "Wipro", "logo": "/images/recruiters/wipro.png" },
+    { "name": "Cognizant", "logo": "/images/recruiters/cognizant.png" },
+    { "name": "Accenture", "logo": "/images/recruiters/accenture.png" },
+    { "name": "Zoho", "logo": "/images/recruiters/zoho.png" },
+    { "name": "HCL Technologies", "logo": "/images/recruiters/hcl.png" },
+    { "name": "Capgemini", "logo": "/images/recruiters/capgemini.png" },
+    { "name": "L&T Infotech", "logo": "/images/recruiters/lti.png" },
+    { "name": "Mphasis", "logo": "/images/recruiters/mphasis.png" },
+    { "name": "Tech Mahindra", "logo": "/images/recruiters/techmahindra.png" },
+    { "name": "Sutherland", "logo": "/images/recruiters/sutherland.png" }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "K. Preethi",
+    "batchYear": "2020-2024",
+    "currentCompany": "Zoho Corporation",
+    "designation": "Software Engineer",
+    "linkedin": "https://linkedin.com/in/preethi-k",
+    "photo": "/images/alumni/alumni1.jpeg",
+    "testimonial": "PSR's IT Department gave me an incredible foundation. The Anna University curriculum combined with practical lab work and placement training prepared me well for my career at Zoho."
+  },
+  {
+    "id": 2,
+    "name": "S. Ravi Kumar",
+    "batchYear": "2019-2023",
+    "currentCompany": "TCS Digital",
+    "designation": "Systems Engineer",
+    "linkedin": "https://linkedin.com/in/ravi-kumar-s",
+    "photo": "/images/alumni/alumni2.jpeg",
+    "testimonial": "The hands-on lab sessions and project-based learning at PSR IT department gave me a strong edge. The placement cell's support was outstanding."
+  },
+  {
+    "id": 3,
+    "name": "M. Deepa",
+    "batchYear": "2018-2022",
+    "currentCompany": "Infosys",
+    "designation": "Senior Systems Engineer",
+    "linkedin": "https://linkedin.com/in/deepa-m",
+    "photo": "/images/alumni/alumni3.jpeg",
+    "testimonial": "The research-oriented approach of our faculty, especially in AI/ML, sparked my passion for technology. The eco-friendly campus and supportive environment made PSR a great place to learn."
+  },
+  {
+    "id": 4,
+    "name": "R. Suresh",
+    "batchYear": "2017-2021",
+    "currentCompany": "Cognizant",
+    "designation": "Associate - Projects",
+    "linkedin": "https://linkedin.com/in/suresh-r",
+    "photo": "/images/alumni/alumni1.jpeg",
+    "testimonial": "From the GATE coaching classes to the placement drives, PSR IT Department covered every aspect needed for a successful career in the IT industry."
+  },
+  {
+    "id": 5,
+    "name": "P. Kavitha",
+    "batchYear": "2016-2020",
+    "currentCompany": "Wipro",
+    "designation": "Project Engineer",
+    "linkedin": "https://linkedin.com/in/kavitha-p",
+    "photo": "/images/alumni/alumni2.jpeg",
+    "testimonial": "The IT department at PSR provided the perfect blend of academics and practical skills. From college projects to Wipro — the journey has been wonderful."
+  },
+  {
+    "id": 6,
+    "name": "A. Venkatesan",
+    "batchYear": "2015-2019",
+    "currentCompany": "HCL Technologies",
+    "designation": "Technical Lead",
+    "linkedin": "https://linkedin.com/in/venkatesan-a",
+    "photo": "/images/alumni/alumni3.jpeg",
+    "testimonial": "PSR Engineering College's autonomous curriculum, combined with the NAAC A-grade standards, ensured we received world-class education right here in Sivakasi."
+  }
+]

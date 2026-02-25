@@ -1,0 +1,5 @@
+[
+  { "id": 1, "title": "TNEA 2026 Counselling - Admissions Open", "content": "B.Tech IT admissions through TNEA counselling. PSR Engineering College (Autonomous) — Affiliated to Anna University. Apply now!", "date": "2026-02-20", "isActive": true },
+  { "id": 2, "title": "TECHNOVANZA 2026 - Register Now!", "content": "Annual technical symposium scheduled for March 15-16, 2026 at PSR campus, Sevalpatti. Register your team before March 5.", "date": "2026-02-15", "isActive": true },
+  { "id": 3, "title": "Anna University End Semester Exams", "content": "End semester examination schedule for Even Semester 2025-26 has been published. Check the Anna University portal.", "date": "2026-02-10", "isActive": true }
+]

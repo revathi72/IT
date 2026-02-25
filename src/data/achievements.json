@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "First Prize - Smart India Hackathon 2025",
+    "description": "Team of 6 PSR IT students won the national-level Smart India Hackathon with their AI-powered healthcare solution for rural communities.",
+    "studentNames": ["M. Tharun Kumar", "S. Nithya", "R. Vignesh"],
+    "category": "competition",
+    "year": 2025,
+    "image": "/images/awards/achievement1.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Best Paper Award - IEEE Conference",
+    "description": "Research paper on 'Federated Learning for Edge Devices' received the Best Paper Award at IEEE International Conference, co-authored by PSR faculty and student.",
+    "studentNames": ["Dr. K. Muruganantham", "R. Vignesh"],
+    "category": "research",
+    "year": 2025,
+    "image": "/images/awards/achievement2.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "NPTEL Star - Cloud Computing",
+    "description": "P. Dharani scored 96% in NPTEL Cloud Computing certification, ranking among top 1% nationally. PSR IT recognised as NPTEL Local Chapter.",
+    "studentNames": ["P. Dharani"],
+    "category": "academic",
+    "year": 2025,
+    "image": "/images/awards/achievement3.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "NAAC 'A' Grade Accreditation",
+    "description": "PSR Engineering College received prestigious NAAC 'A' Grade accreditation, recognising overall institutional excellence and quality standards.",
+    "studentNames": [],
+    "category": "department",
+    "year": 2024,
+    "image": "/images/awards/achievement1.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "NBA Accreditation - IT Department",
+    "description": "The IT Department received NBA Accreditation, affirming our commitment to outcome-based education and quality teaching standards.",
+    "studentNames": [],
+    "category": "department",
+    "year": 2024,
+    "image": "/images/awards/achievement2.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Anna University Gold Medal",
+    "description": "K. Preethi secured Anna University first rank and gold medal in B.Tech Information Technology from the PSR IT Department.",
+    "studentNames": ["K. Preethi"],
+    "category": "academic",
+    "year": 2024,
+    "image": "/images/awards/achievement3.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Startup Incubation Award",
+    "description": "Student startup 'AgriTech Sivakasi' received ₹5 Lakh seed funding from the PSR Incubation Centre for a smart agriculture IoT solution.",
+    "studentNames": ["V. Karthik", "D. Sangeetha"],
+    "category": "entrepreneurship",
+    "year": 2024,
+    "image": "/images/awards/achievement1.jpeg"
+  }
+]

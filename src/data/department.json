@@ -1,0 +1,64 @@
+{
+  "name": "Department of Information Technology",
+  "college": "PSR Engineering College",
+  "collegeFull": "PSR Engineering College (Autonomous)",
+  "affiliation": "Anna University, Chennai",
+  "approvedBy": "AICTE, New Delhi",
+  "accreditation": "NAAC 'A' Grade | NBA Accredited",
+  "established": 1998,
+  "itEstablished": 2002,
+  "campus": "47-acre Eco-friendly Campus",
+  "hodName": "Dr. S. Arumugam",
+  "hodPhoto": "/images/faculty/hod.jpg",
+  "hodMessage": "Welcome to the Department of Information Technology at PSR Engineering College. As an autonomous institution affiliated with Anna University and accredited with NAAC 'A' Grade, our department is committed to nurturing technically competent professionals. With state-of-the-art laboratories, experienced faculty, and strong industry partnerships, we prepare our students to excel in the ever-evolving IT landscape. Our consistent placement record of over 90% and recognition as a research centre for Ph.D. programmes reflect our dedication to academic and professional excellence.",
+  "vision": "To be a centre of excellence in Information Technology education, research, and innovation, producing globally competent IT professionals who contribute to the technological advancement of society.",
+  "mission": [
+    "To impart quality education with a strong foundation in IT fundamentals and emerging technologies aligned with Anna University curriculum.",
+    "To promote research, innovation, and entrepreneurship through collaborative projects and industry partnerships.",
+    "To develop ethical, socially responsible professionals with leadership skills for the global IT industry.",
+    "To foster continuous learning and professional development through NPTEL, GATE training, and industry certification programmes."
+  ],
+  "history": "PSR Engineering College was established in 1998 in Sevalpatti, near Sivakasi, Virudhunagar District, Tamil Nadu. The Department of Information Technology was founded in 2002 with an initial intake of 60 students. As an autonomous institution affiliated with Anna University and approved by AICTE, the college has grown into one of the premier engineering institutions in the region. The IT department today features modern laboratories, a dedicated research centre for Ph.D. programmes, and a strong alumni network spanning top IT companies worldwide.",
+  "infrastructure": [
+    { "name": "Programming Lab", "description": "Equipped with 60 high-performance workstations for C, Java, Python, and full-stack development.", "icon": "computer" },
+    { "name": "Networking Lab", "description": "Complete setup with Cisco routers and switches for network configuration, simulation, and security testing.", "icon": "network" },
+    { "name": "Project & Research Lab", "description": "Dedicated space for final year projects, Ph.D. research, and startup incubation with server infrastructure.", "icon": "project" },
+    { "name": "Seminar Hall", "description": "120-seater air-conditioned hall with smart board and AV equipment for seminars and workshops.", "icon": "seminar" },
+    { "name": "Digital Library", "description": "Access to IEEE, Springer, DELNET, and NPTEL resources with 24/7 online catalogue.", "icon": "library" },
+    { "name": "IoT & AI Lab", "description": "Modern lab with Raspberry Pi, Arduino, NVIDIA Jetson, and GPU workstations for AI/ML and IoT projects.", "icon": "ai" }
+  ],
+  "stats": {
+    "totalStudents": 480,
+    "totalFaculty": 25,
+    "facultyBreakdown": {
+      "professors": 4,
+      "associateProfessors": 8,
+      "assistantProfessors": 13
+    },
+    "placementRate": 90,
+    "totalAlumni": 2800,
+    "yearsOfExcellence": 28,
+    "researchPapers": 180,
+    "totalGraduated": 2800,
+    "phdHolders": 14,
+    "industryPartners": 60
+  },
+  "contact": {
+    "address": "P.S.R. Engineering College, Sevalpatti, Sivakasi - 626 140, Virudhunagar District, Tamil Nadu, India",
+    "phone": "04562-239600, 239091, 239092, 239178",
+    "trustPhone": "04562-221261",
+    "email": "contact@psr.edu.in",
+    "examCell": "examcell@psr.edu.in",
+    "fax": "04562-239284",
+    "trustFax": "04562-225261",
+    "website": "https://psr.edu.in",
+    "hours": "Monday – Saturday, 9:00 AM – 5:00 PM",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3935.8!2d77.82!3d9.45!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sPSR+Engineering+College!5e0!3m2!1sen!2sin!4v1"
+  },
+  "socialMedia": {
+    "linkedin": "https://linkedin.com/school/psr-engineering-college",
+    "instagram": "https://instagram.com/psrec_official",
+    "twitter": "https://twitter.com/psrec_sivakasi",
+    "youtube": "https://youtube.com/@psrengineeringcollege"
+  }
+}

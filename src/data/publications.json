@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Federated Learning for Privacy-Preserving Edge Computing in Rural IoT Networks",
+    "authors": ["Dr. K. Muruganantham", "R. Vignesh"],
+    "journal": "IEEE Transactions on Cloud Computing",
+    "year": 2025,
+    "doi": "https://doi.org/10.1109/TCC.2025.001",
+    "type": "journal"
+  },
+  {
+    "id": 2,
+    "title": "Deep Learning Approaches for Tamil Handwritten Character Recognition",
+    "authors": ["Dr. S. Arumugam", "Dr. M. Kavitha"],
+    "journal": "Springer - Neural Computing and Applications",
+    "year": 2025,
+    "doi": "https://doi.org/10.1007/NCA.2025.002",
+    "type": "journal"
+  },
+  {
+    "id": 3,
+    "title": "Optimizing Microservice Architecture for E-Governance Applications",
+    "authors": ["Dr. L. Priya", "Mr. S. Manikandan"],
+    "journal": "ACM Computing Surveys",
+    "year": 2024,
+    "doi": "https://doi.org/10.1145/CSUR.2024.003",
+    "type": "journal"
+  },
+  {
+    "id": 4,
+    "title": "IoT-Based Smart Agriculture Monitoring System for Virudhunagar District",
+    "authors": ["Dr. V. Nandhini", "Mr. T. Karthikeyan"],
+    "journal": "Elsevier - Internet of Things",
+    "year": 2024,
+    "doi": "https://doi.org/10.1016/IOT.2024.005",
+    "type": "journal"
+  },
+  {
+    "id": 5,
+    "title": "Blockchain-Based Decentralized Certificate Verification for Anna University",
+    "authors": ["Dr. K. Muruganantham", "P. Dharani"],
+    "journal": "Proceedings of IEEE International Conference on Blockchain",
+    "year": 2024,
+    "doi": "https://doi.org/10.1109/ICBC.2024.004",
+    "type": "conference"
+  },
+  {
+    "id": 6,
+    "title": "Medical Image Segmentation Using Attention-Based U-Net Architecture",
+    "authors": ["Dr. R. Senthilkumar", "Dr. S. Arumugam"],
+    "journal": "Pattern Recognition Letters",
+    "year": 2023,
+    "doi": "https://doi.org/10.1016/PRL.2023.006",
+    "type": "journal"
+  }
+]

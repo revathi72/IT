@@ -1,0 +1,20 @@
+[
+  { "id": 1, "title": "Data Structures and Algorithms (Cormen)", "type": "ebook", "url": "#", "semester": 3, "category": "textbook" },
+  { "id": 2, "title": "Computer Networks (Tanenbaum)", "type": "ebook", "url": "#", "semester": 5, "category": "textbook" },
+  { "id": 3, "title": "Operating Systems Concepts (Silberschatz)", "type": "ebook", "url": "#", "semester": 4, "category": "textbook" },
+  { "id": 4, "title": "Database Management Systems (Raghu Ramakrishnan)", "type": "ebook", "url": "#", "semester": 4, "category": "textbook" },
+  { "id": 5, "title": "Machine Learning (Tom Mitchell)", "type": "ebook", "url": "#", "semester": 6, "category": "textbook" },
+  { "id": 6, "title": "B.Tech IT - Semester 1 Syllabus (Anna University R2021)", "type": "syllabus", "url": "/docs/syllabus-sem1.pdf", "semester": 1, "category": "syllabus" },
+  { "id": 7, "title": "B.Tech IT - Semester 2 Syllabus (Anna University R2021)", "type": "syllabus", "url": "/docs/syllabus-sem2.pdf", "semester": 2, "category": "syllabus" },
+  { "id": 8, "title": "B.Tech IT - Semester 3 Syllabus (Anna University R2021)", "type": "syllabus", "url": "/docs/syllabus-sem3.pdf", "semester": 3, "category": "syllabus" },
+  { "id": 9, "title": "B.Tech IT - Semester 4 Syllabus (Anna University R2021)", "type": "syllabus", "url": "/docs/syllabus-sem4.pdf", "semester": 4, "category": "syllabus" },
+  { "id": 10, "title": "B.Tech IT - Semester 5 Syllabus (Anna University R2021)", "type": "syllabus", "url": "/docs/syllabus-sem5.pdf", "semester": 5, "category": "syllabus" },
+  { "id": 11, "title": "B.Tech IT - Semester 6 Syllabus (Anna University R2021)", "type": "syllabus", "url": "/docs/syllabus-sem6.pdf", "semester": 6, "category": "syllabus" },
+  { "id": 12, "title": "B.Tech IT - Semester 7 Syllabus (Anna University R2021)", "type": "syllabus", "url": "/docs/syllabus-sem7.pdf", "semester": 7, "category": "syllabus" },
+  { "id": 13, "title": "B.Tech IT - Semester 8 Syllabus (Anna University R2021)", "type": "syllabus", "url": "/docs/syllabus-sem8.pdf", "semester": 8, "category": "syllabus" },
+  { "id": 14, "title": "IEEE Xplore Digital Library", "type": "link", "url": "https://ieeexplore.ieee.org/", "semester": null, "category": "digital-library" },
+  { "id": 15, "title": "Springer Link", "type": "link", "url": "https://link.springer.com/", "semester": null, "category": "digital-library" },
+  { "id": 16, "title": "NPTEL Online Courses", "type": "link", "url": "https://nptel.ac.in/", "semester": null, "category": "online-learning" },
+  { "id": 17, "title": "SWAYAM Portal", "type": "link", "url": "https://swayam.gov.in/", "semester": null, "category": "online-learning" },
+  { "id": 18, "title": "GeeksforGeeks - DSA Practice", "type": "link", "url": "https://www.geeksforgeeks.org/", "semester": null, "category": "practice" }
+]

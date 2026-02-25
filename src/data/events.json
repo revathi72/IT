@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "TECHNOVANZA 2026 - Annual Technical Symposium",
+    "description": "The flagship annual technical symposium of PSR Engineering College's IT Department featuring coding competitions, hackathons, paper presentations, and tech talks by industry experts from TCS, Infosys, and Zoho.",
+    "date": "2026-03-15",
+    "endDate": "2026-03-16",
+    "venue": "PSR Main Auditorium, Sevalpatti",
+    "category": "technical",
+    "isUpcoming": true,
+    "images": ["/images/events/event1.jpeg", "/images/events/event2.jpeg"],
+    "highlights": ["24-hour Hackathon", "Coding Contest", "Paper Presentation", "Industry Tech Talks"]
+  },
+  {
+    "id": 2,
+    "title": "Workshop on Cloud Computing & DevOps",
+    "description": "A two-day hands-on workshop on AWS, Docker, Kubernetes, and CI/CD pipelines conducted by Zoho engineers at PSR campus.",
+    "date": "2026-02-20",
+    "endDate": "2026-02-21",
+    "venue": "IT Seminar Hall, PSR Engineering College",
+    "category": "workshop",
+    "isUpcoming": false,
+    "images": ["/images/events/event3.jpeg", "/images/events/event4.jpeg"],
+    "highlights": ["AWS Hands-on", "Docker & Kubernetes", "CI/CD Pipelines"]
+  },
+  {
+    "id": 3,
+    "title": "Guest Lecture: Future of AI in Industry",
+    "description": "An insightful guest lecture by a senior data scientist from TCS Digital on the applications of AI in modern industries and career pathways.",
+    "date": "2026-01-28",
+    "endDate": null,
+    "venue": "IT Seminar Hall, PSR Engineering College",
+    "category": "seminar",
+    "isUpcoming": false,
+    "images": ["/images/events/event5.jpeg"],
+    "highlights": ["AI in Industry 4.0", "Career in Data Science", "Interactive Q&A"]
+  },
+  {
+    "id": 4,
+    "title": "Hackathon 2025 - Code for Sivakasi",
+    "description": "A 36-hour hackathon focused on building technology solutions for local community challenges in the Virudhunagar District.",
+    "date": "2025-11-10",
+    "endDate": "2025-11-11",
+    "venue": "IT Block - All Labs, PSR Engineering College",
+    "category": "technical",
+    "isUpcoming": false,
+    "images": ["/images/events/event6.jpeg", "/images/events/event7.jpeg"],
+    "highlights": ["36-hour Coding Sprint", "50+ Teams", "₹1 Lakh Prize Pool"]
+  },
+  {
+    "id": 5,
+    "title": "Industry Visit to Zoho Corporation, Chennai",
+    "description": "Third-year IT students visited Zoho Corporation in Chennai to understand industry practices, product development, and work culture.",
+    "date": "2025-10-05",
+    "endDate": null,
+    "venue": "Zoho Corporation, Chennai",
+    "category": "visit",
+    "isUpcoming": false,
+    "images": ["/images/events/event8.jpeg", "/images/events/event9.jpeg"],
+    "highlights": ["Office Tour", "Product Dev Sessions", "Alumni Interaction"]
+  },
+  {
+    "id": 6,
+    "title": "International Conference on Emerging Technologies (ICET 2025)",
+    "description": "A two-day international conference organised by PSR IT Department with paper presentations from researchers across 10 countries, in collaboration with Anna University.",
+    "date": "2025-09-18",
+    "endDate": "2025-09-19",
+    "venue": "PSR Main Auditorium, Sevalpatti",
+    "category": "conference",
+    "isUpcoming": false,
+    "images": ["/images/events/event10.jpeg", "/images/events/event11.jpeg"],
+    "highlights": ["Keynote Speakers", "120+ Papers", "10 Countries"]
+  }
+]

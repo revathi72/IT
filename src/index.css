@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1e3a5f;
+  --color-primary-light: #2c5282;
+  --color-primary-dark: #152a45;
+  --color-secondary: #e2a829;
+  --color-secondary-light: #f0c149;
+  --color-accent: #3182ce;
+  --color-surface: #f7fafc;
+  --color-surface-dark: #edf2f7;
+  --font-heading: 'Poppins', sans-serif;
+  --font-body: 'Inter', sans-serif;
+}
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+  }
+  body {
+    font-family: var(--font-body);
+    color: #1a202c;
+    background-color: #ffffff;
+    line-height: 1.6;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    line-height: 1.2;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  a {
+    text-decoration: none;
+  }
+  /* Ensure tables don't overflow */
+  table {
+    border-collapse: collapse;
+  }
+  /* Consistent button reset */
+  button {
+    font-family: inherit;
+  }
+  /* Prevent text overflow */
+  p, span, li {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+  }
+}

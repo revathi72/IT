@@ -1,0 +1,33 @@
+{
+  "batches": [
+    { "year": "2019-2023", "sections": ["A", "B"], "totalStudents": 112, "status": "graduated" },
+    { "year": "2020-2024", "sections": ["A", "B"], "totalStudents": 115, "status": "graduated" },
+    { "year": "2021-2025", "sections": ["A", "B"], "totalStudents": 118, "status": "graduated" },
+    { "year": "2022-2026", "sections": ["A", "B"], "totalStudents": 120, "status": "current" },
+    { "year": "2023-2027", "sections": ["A", "B"], "totalStudents": 120, "status": "current" },
+    { "year": "2024-2028", "sections": ["A", "B"], "totalStudents": 120, "status": "current" },
+    { "year": "2025-2029", "sections": ["A", "B"], "totalStudents": 120, "status": "current" }
+  ],
+  "studentCouncil": [
+    { "name": "M. Tharun Kumar", "role": "President", "batch": "2022-2026", "photo": "/images/students/council1.jpg" },
+    { "name": "S. Nithya", "role": "Vice President", "batch": "2022-2026", "photo": "/images/students/council2.jpg" },
+    { "name": "R. Vignesh", "role": "Secretary", "batch": "2023-2027", "photo": "/images/students/council3.jpg" },
+    { "name": "P. Dharani", "role": "Joint Secretary", "batch": "2023-2027", "photo": "/images/students/council4.jpg" },
+    { "name": "K. Aravind", "role": "Treasurer", "batch": "2024-2028", "photo": "/images/students/council5.jpg" }
+  ],
+  "projects": [
+    { "title": "AI-Powered Attendance System", "team": "Team Valluvar", "batch": "2022-2026", "description": "Face recognition based attendance tracking using deep learning for PSR campus classrooms.", "techStack": ["Python", "TensorFlow", "OpenCV", "Flask"] },
+    { "title": "Smart Campus IoT Dashboard", "team": "Team Innovators", "batch": "2022-2026", "description": "Real-time monitoring of PSR campus resources, energy consumption, and environmental data using IoT sensors.", "techStack": ["React", "Node.js", "MQTT", "Arduino"] },
+    { "title": "Blockchain-based Certificate Verification", "team": "Team ChainTech", "batch": "2023-2027", "description": "Tamper-proof Anna University certificate verification system using blockchain technology.", "techStack": ["Solidity", "Ethereum", "React", "IPFS"] },
+    { "title": "Regional Language Chatbot", "team": "Team Thamizh AI", "batch": "2023-2027", "description": "NLP-powered chatbot supporting Tamil language for student academic assistance and campus queries.", "techStack": ["Python", "NLTK", "Django", "React"] }
+  ],
+  "yearWiseStats": [
+    { "year": "2019-2023", "total": 112, "male": 68, "female": 44, "status": "graduated" },
+    { "year": "2020-2024", "total": 115, "male": 67, "female": 48, "status": "graduated" },
+    { "year": "2021-2025", "total": 118, "male": 66, "female": 52, "status": "graduated" },
+    { "year": "2022-2026", "total": 120, "male": 65, "female": 55, "status": "current" },
+    { "year": "2023-2027", "total": 120, "male": 63, "female": 57, "status": "current" },
+    { "year": "2024-2028", "total": 120, "male": 61, "female": 59, "status": "current" },
+    { "year": "2025-2029", "total": 120, "male": 60, "female": 60, "status": "current" }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  { "id": 1, "imageUrl": "/images/gallery/gallery1.jpeg", "caption": "PSR Engineering College - 47 Acre Campus", "category": "infrastructure", "eventId": null },
+  { "id": 2, "imageUrl": "/images/gallery/gallery2.jpeg", "caption": "IT Programming Lab", "category": "infrastructure", "eventId": null },
+  { "id": 3, "imageUrl": "/images/gallery/gallery3.jpeg", "caption": "Networking & Cisco Lab", "category": "infrastructure", "eventId": null },
+  { "id": 4, "imageUrl": "/images/events/event1.jpeg", "caption": "TECHNOVANZA 2025 - Opening Ceremony", "category": "events", "eventId": 1 },
+  { "id": 5, "imageUrl": "/images/events/event2.jpeg", "caption": "TECHNOVANZA 2025 - Hackathon", "category": "events", "eventId": 1 },
+  { "id": 6, "imageUrl": "/images/events/event3.jpeg", "caption": "Cloud Computing Workshop at PSR", "category": "events", "eventId": 2 },
+  { "id": 7, "imageUrl": "/images/gallery/gallery4.jpeg", "caption": "PSR Graduation Day 2025", "category": "celebrations", "eventId": null },
+  { "id": 8, "imageUrl": "/images/gallery/gallery5.jpeg", "caption": "Annual Sports Day - PSR Campus", "category": "celebrations", "eventId": null },
+  { "id": 9, "imageUrl": "/images/events/event5.jpeg", "caption": "Guest Lecture by Industry Expert", "category": "events", "eventId": 3 },
+  { "id": 10, "imageUrl": "/images/events/event6.jpeg", "caption": "Hackathon - Code for Sivakasi", "category": "events", "eventId": 4 },
+  { "id": 11, "imageUrl": "/images/gallery/gallery6.jpeg", "caption": "Campus Recruitment Drive at PSR", "category": "placements", "eventId": null },
+  { "id": 12, "imageUrl": "/images/awards/achievement1.jpeg", "caption": "SIH 2025 Winners Felicitation", "category": "achievements", "eventId": null }
+]
