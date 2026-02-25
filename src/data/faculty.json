@@ -9,7 +9,7 @@
     "experience": "22 years",
     "email": "arumugam.s@psr.edu.in",
     "phone": "+91 94432 10001",
-    "photo": "/images/faculty/hod.jpg",
+    "photo": "/IT/images/faculty/hod.jpg",
     "researchInterests": ["Deep Learning", "Natural Language Processing", "Computer Vision"],
     "publications": 42
   },
@@ -23,7 +23,7 @@
     "experience": "19 years",
     "email": "kavitha.m@psr.edu.in",
     "phone": "+91 94432 10002",
-    "photo": "/images/faculty/faculty2.jpg",
+    "photo": "/IT/images/faculty/faculty2.jpg",
     "researchInterests": ["Big Data", "Cloud Computing", "Data Mining"],
     "publications": 36
   },
@@ -37,7 +37,7 @@
     "experience": "20 years",
     "email": "senthilkumar.r@psr.edu.in",
     "phone": "+91 94432 10003",
-    "photo": "/images/faculty/faculty3.jpg",
+    "photo": "/IT/images/faculty/faculty3.jpg",
     "researchInterests": ["Medical Image Analysis", "Remote Sensing", "Deep Learning"],
     "publications": 38
   },
@@ -51,7 +51,7 @@
     "experience": "18 years",
     "email": "tamilselvi.p@psr.edu.in",
     "phone": "+91 94432 10004",
-    "photo": "/images/faculty/faculty4.jpg",
+    "photo": "/IT/images/faculty/faculty4.jpg",
     "researchInterests": ["Software Testing", "Agile Methodologies", "Requirements Engineering"],
     "publications": 30
   },
@@ -65,7 +65,7 @@
     "experience": "15 years",
     "email": "muruganantham.k@psr.edu.in",
     "phone": "+91 94432 10005",
-    "photo": "/images/faculty/faculty5.jpg",
+    "photo": "/IT/images/faculty/faculty5.jpg",
     "researchInterests": ["Cybersecurity", "Blockchain", "IoT Security"],
     "publications": 26
   },
@@ -79,7 +79,7 @@
     "experience": "14 years",
     "email": "nandhini.v@psr.edu.in",
     "phone": "+91 94432 10006",
-    "photo": "/images/faculty/faculty6.jpg",
+    "photo": "/IT/images/faculty/faculty6.jpg",
     "researchInterests": ["Smart Agriculture IoT", "Edge Computing", "Embedded Systems"],
     "publications": 22
   },
@@ -93,7 +93,7 @@
     "experience": "13 years",
     "email": "saravanan.a@psr.edu.in",
     "phone": "+91 94432 10007",
-    "photo": "/images/faculty/faculty7.jpg",
+    "photo": "/IT/images/faculty/faculty7.jpg",
     "researchInterests": ["Predictive Analytics", "Text Mining", "Recommendation Systems"],
     "publications": 20
   },
@@ -107,7 +107,7 @@
     "experience": "12 years",
     "email": "priya.l@psr.edu.in",
     "phone": "+91 94432 10008",
-    "photo": "/images/faculty/faculty8.jpg",
+    "photo": "/IT/images/faculty/faculty8.jpg",
     "researchInterests": ["Microservices", "Serverless Architecture", "CI/CD Pipelines"],
     "publications": 18
   },
@@ -121,7 +121,7 @@
     "experience": "9 years",
     "email": "manikandan.s@psr.edu.in",
     "phone": "+91 94432 10009",
-    "photo": "/images/faculty/faculty9.jpg",
+    "photo": "/IT/images/faculty/faculty9.jpg",
     "researchInterests": ["Progressive Web Apps", "MERN Stack", "GraphQL"],
     "publications": 10
   },
@@ -135,7 +135,7 @@
     "experience": "7 years",
     "email": "deepa.g@psr.edu.in",
     "phone": "+91 94432 10010",
-    "photo": "/images/faculty/faculty10.jpg",
+    "photo": "/IT/images/faculty/faculty10.jpg",
     "researchInterests": ["NoSQL Databases", "Data Warehousing", "Distributed Systems"],
     "publications": 8
   },
@@ -149,7 +149,7 @@
     "experience": "6 years",
     "email": "karthikeyan.t@psr.edu.in",
     "phone": "+91 94432 10011",
-    "photo": "/images/faculty/faculty11.jpg",
+    "photo": "/IT/images/faculty/faculty11.jpg",
     "researchInterests": ["Flutter", "React Native", "Human-Computer Interaction"],
     "publications": 5
   },
@@ -163,7 +163,7 @@
     "experience": "5 years",
     "email": "anitha.b@psr.edu.in",
     "phone": "+91 94432 10012",
-    "photo": "/images/faculty/faculty12.jpg",
+    "photo": "/IT/images/faculty/faculty12.jpg",
     "researchInterests": ["Penetration Testing", "Digital Forensics", "Malware Analysis"],
     "publications": 4
   }

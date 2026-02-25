@@ -6,7 +6,7 @@
     "studentNames": ["M. Tharun Kumar", "S. Nithya", "R. Vignesh"],
     "category": "competition",
     "year": 2025,
-    "image": "/images/awards/achievement1.jpeg"
+    "image": "/IT/images/awards/achievement1.jpeg"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "studentNames": ["Dr. K. Muruganantham", "R. Vignesh"],
     "category": "research",
     "year": 2025,
-    "image": "/images/awards/achievement2.jpeg"
+    "image": "/IT/images/awards/achievement2.jpeg"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "studentNames": ["P. Dharani"],
     "category": "academic",
     "year": 2025,
-    "image": "/images/awards/achievement3.jpeg"
+    "image": "/IT/images/awards/achievement3.jpeg"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "studentNames": [],
     "category": "department",
     "year": 2024,
-    "image": "/images/awards/achievement1.jpeg"
+    "image": "/IT/images/awards/achievement1.jpeg"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "studentNames": [],
     "category": "department",
     "year": 2024,
-    "image": "/images/awards/achievement2.jpeg"
+    "image": "/IT/images/awards/achievement2.jpeg"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "studentNames": ["K. Preethi"],
     "category": "academic",
     "year": 2024,
-    "image": "/images/awards/achievement3.jpeg"
+    "image": "/IT/images/awards/achievement3.jpeg"
   },
   {
     "id": 7,
@@ -60,6 +60,6 @@
     "studentNames": ["V. Karthik", "D. Sangeetha"],
     "category": "entrepreneurship",
     "year": 2024,
-    "image": "/images/awards/achievement1.jpeg"
+    "image": "/IT/images/awards/achievement1.jpeg"
   }
 ]

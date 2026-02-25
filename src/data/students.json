@@ -9,11 +9,11 @@
     { "year": "2025-2029", "sections": ["A", "B"], "totalStudents": 120, "status": "current" }
   ],
   "studentCouncil": [
-    { "name": "M. Tharun Kumar", "role": "President", "batch": "2022-2026", "photo": "/images/students/council1.jpg" },
-    { "name": "S. Nithya", "role": "Vice President", "batch": "2022-2026", "photo": "/images/students/council2.jpg" },
-    { "name": "R. Vignesh", "role": "Secretary", "batch": "2023-2027", "photo": "/images/students/council3.jpg" },
-    { "name": "P. Dharani", "role": "Joint Secretary", "batch": "2023-2027", "photo": "/images/students/council4.jpg" },
-    { "name": "K. Aravind", "role": "Treasurer", "batch": "2024-2028", "photo": "/images/students/council5.jpg" }
+    { "name": "M. Tharun Kumar", "role": "President", "batch": "2022-2026", "photo": "/IT/images/students/council1.jpg" },
+    { "name": "S. Nithya", "role": "Vice President", "batch": "2022-2026", "photo": "/IT/images/students/council2.jpg" },
+    { "name": "R. Vignesh", "role": "Secretary", "batch": "2023-2027", "photo": "/IT/images/students/council3.jpg" },
+    { "name": "P. Dharani", "role": "Joint Secretary", "batch": "2023-2027", "photo": "/IT/images/students/council4.jpg" },
+    { "name": "K. Aravind", "role": "Treasurer", "batch": "2024-2028", "photo": "/IT/images/students/council5.jpg" }
   ],
   "projects": [
     { "title": "AI-Powered Attendance System", "team": "Team Valluvar", "batch": "2022-2026", "description": "Face recognition based attendance tracking using deep learning for PSR campus classrooms.", "techStack": ["Python", "TensorFlow", "OpenCV", "Flask"] },

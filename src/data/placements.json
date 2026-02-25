@@ -7,17 +7,17 @@
     { "year": "2020-2021", "totalStudents": 108, "placed": 90, "higherStudies": 12, "entrepreneur": 6, "highestPackage": "12 LPA", "averagePackage": "3.5 LPA", "medianPackage": "2.8 LPA" }
   ],
   "topRecruiters": [
-    { "name": "TCS", "logo": "/images/recruiters/tcs.png" },
-    { "name": "Infosys", "logo": "/images/recruiters/infosys.png" },
-    { "name": "Wipro", "logo": "/images/recruiters/wipro.png" },
-    { "name": "Cognizant", "logo": "/images/recruiters/cognizant.png" },
-    { "name": "Accenture", "logo": "/images/recruiters/accenture.png" },
-    { "name": "Zoho", "logo": "/images/recruiters/zoho.png" },
-    { "name": "HCL Technologies", "logo": "/images/recruiters/hcl.png" },
-    { "name": "Capgemini", "logo": "/images/recruiters/capgemini.png" },
-    { "name": "L&T Infotech", "logo": "/images/recruiters/lti.png" },
-    { "name": "Mphasis", "logo": "/images/recruiters/mphasis.png" },
-    { "name": "Tech Mahindra", "logo": "/images/recruiters/techmahindra.png" },
-    { "name": "Sutherland", "logo": "/images/recruiters/sutherland.png" }
+    { "name": "TCS", "logo": "/IT/images/recruiters/tcs.png" },
+    { "name": "Infosys", "logo": "/IT/images/recruiters/infosys.png" },
+    { "name": "Wipro", "logo": "/IT/images/recruiters/wipro.png" },
+    { "name": "Cognizant", "logo": "/IT/images/recruiters/cognizant.png" },
+    { "name": "Accenture", "logo": "/IT/images/recruiters/accenture.png" },
+    { "name": "Zoho", "logo": "/IT/images/recruiters/zoho.png" },
+    { "name": "HCL Technologies", "logo": "/IT/images/recruiters/hcl.png" },
+    { "name": "Capgemini", "logo": "/IT/images/recruiters/capgemini.png" },
+    { "name": "L&T Infotech", "logo": "/IT/images/recruiters/lti.png" },
+    { "name": "Mphasis", "logo": "/IT/images/recruiters/mphasis.png" },
+    { "name": "Tech Mahindra", "logo": "/IT/images/recruiters/techmahindra.png" },
+    { "name": "Sutherland", "logo": "/IT/images/recruiters/sutherland.png" }
   ]
 }
